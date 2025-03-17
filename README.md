@@ -2,7 +2,8 @@
 This is My Portfolio Related to The Field of Data Analysis
 
 # [Project 1: Distribution Visualitation Global Water Consumption](https://public.tableau.com/app/profile/rendy.firmansyah/viz/DistributionGlobalWaterConsumption/Dashboard1)
-![alt text](?raw=true)
+![alt text](https://github.com/rendy-firmansyah/rendy_portfolio/blob/main/Global%20Water.png?raw=true)
+
 This is a project I created for my portfolio in data, where I visualized data from a global water consumption usage dataset. I visualized this data using Tableau application.
 * Data taken from kaggle dataset
 * Table contains data in the form of: Household, industrial, agricultural water use, total global water consumption, total water per capita, to soil water depletion rates, and the impact of rainfall on water use.
